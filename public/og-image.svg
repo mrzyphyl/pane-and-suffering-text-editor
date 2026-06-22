@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <rect width="1200" height="630" fill="#1e1e1e"/>
-  <polyline points="480,200 620,315 480,430" fill="none" stroke="#569cd6" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
-  <polyline points="720,200 580,315 720,430" fill="none" stroke="#569cd6" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="620,200 480,315 620,430" fill="none" stroke="#569cd6" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="580,200 720,315 580,430" fill="none" stroke="#569cd6" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="600" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="48" fill="#d4d4d4" text-anchor="middle" font-weight="300">Pane &amp; Suffering</text>
 </svg>
